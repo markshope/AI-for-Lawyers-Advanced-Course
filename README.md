@@ -1,1 +1,2 @@
-# AI-for-Lawyers-Contract-Clause-Similarity-Exercise
+# AI for Lawyers (Beginners)
+This file is used for the AI for Lawyers class.
