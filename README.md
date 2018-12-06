@@ -1,2 +1,2 @@
 # AI for Lawyers (Beginners)
-This file is used for the AI for Lawyers introductory class.
+This repository is used for the AI for Lawyers advanced class.
